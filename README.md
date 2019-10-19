@@ -8,8 +8,8 @@ Just turn it on, and access to it using ssh.
 
 You need to pass the volumen disk where the boot is located, ssid and password of the WiFi network _in that order_.
 
-**Example on Windows**
-`rpp "F:" "HOME-WIFI" "p455w0rd"`
+**Example on Linux**
+`rpp "/mnt/f" "HOME-WIFI" "p455w0rd"`
 
 You can then discovery what it's the Raspberry Pi IP address using nmap like `nmap -sn 192.168.1.0/24`
 
