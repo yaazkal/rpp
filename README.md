@@ -2,7 +2,7 @@
 
 **This is a quick and dumb script (aka prototype). Use it at your own risk.**
 
-RPP: *R*aspberry *P*re*P*rovision. This helps you to initiate your Raspberry Pi enablig SSH and WiFi access by default.
+RPP: **R**aspberry **P**re**P**rovision. This helps you to initiate your Raspberry Pi enablig SSH and WiFi access by default.
 This is helpfull if you want to start using your Raspberry Pi right away without the need to connect a screen, keyboard and network cable. This is to install a [headless Raspberry pi](https://www.raspberrypi.org/documentation/configuration/wireless/headless.md).
 
 After running this program, all you have to do is turn on your raspberry and access the device using ssh.
